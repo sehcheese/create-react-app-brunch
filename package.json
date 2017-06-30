@@ -1,0 +1,27 @@
+{
+  "name": "webapp3",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "brunch": "^2.9.1",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  },
+  "devDependencies": {
+    "assetsmanager-brunch": "^1.8.1",
+    "auto-reload-brunch": "^2.7.1",
+    "autoprefixer": "^7.1.1",
+    "babel-brunch": "^6.1.1",
+    "babel-preset-latest": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "postcss-brunch": "^2.0.5",
+    "react-scripts": "1.0.8",
+    "uglify-js-brunch": "^2.10.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
